@@ -1,3 +1,4 @@
+// MY FIRST EVER SUCCESSFUL FUNCTION!!! ----> Shows/hides form on home page
 function displayForm() {
     var myForm = document.getElementById('theForm');
 
